@@ -6,7 +6,7 @@ Unfamiliar experiences combined with elevated levels of peril can put me off adv
 
 I might be optimistic, and accidents happen, but generally, the worst outcome is a swim and boat recovery at the bottom.
 
-I've made a simplified map of the [Legacy Course][./lee_valley_legacy_map.html].
+I've made a simplified map of the [Legacy Course](./lee_valley_legacy_map.html).
 
 1. **Flat rolls**, I always start with a couple of rolls on the lake. I try to do a few on-side (my normal side) and also off-side (the other side). In the colder months it also acclimatises me to the water. I'll also try out any other weird rolls that I mostly can't do just to force a second attempt on a roll I can do. Achieving a decent flat roll comes from a lot of pool practice.
 2. **Outflow roll**, rolling in the course outflow was my first attempt at deliberate rolling in "moving water", it helped me get over that initial fear. Start by approaching from the lake and capsize in the moving water, then as close to the last feature as you dare on the way down. This was great for me to start to feel the difference from being upside down in still, flat water. It taught me that sometimes its better to wait, even when inverted.

@@ -25,10 +25,23 @@
     font-size: 1rem;
     cursor: pointer;
   }
+  ul {
+    position: fixed;
+    top: 3.5rem;
+    right: 1rem;
+    margin: 0;
+    padding: 0.5rem 1rem;
+    list-style: none;
+    font-family: system-ui, sans-serif;
+    font-size: 0.9rem;
+    background: rgba(255, 255, 255, 0.9);
+    border-radius: 0.25rem;
+  }
 </style>
 </head>
 <body>
 <button id="toggle">Switch to portrait</button>
+<ul><li><a href="./10-challenges">10 Challenges</a></li></ul>
 <img id="map" src="lee_valley_legacy_landscape_map.svg" alt="Lee Valley Legacy map">
 
 <script>
