@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+<meta charset="UTF-8">
+<title>Lee Valley Legacy Map</title>
+<style>
+  html, body {
+    margin: 0;
+    height: 100%;
+    background: #111;
+    overflow: hidden;
+  }
+  #map {
+    display: block;
+    width: 100vw;
+    height: 100vh;
+    height: 100dvh;
+    object-fit: contain;
+  }
+  #toggle {
+    position: fixed;
+    top: 1rem;
+    right: 1rem;
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+    cursor: pointer;
+  }
+</style>
+</head>
+<body>
+<button id="toggle">Switch to portrait</button>
+<img id="map" src="lee_valley_legacy_landscape_map.svg" alt="Lee Valley Legacy map">
+
+<script>
+  const map = document.getElementById('map');
+  const toggle = document.getElementById('toggle');
+  const sources = {
+    landscape: 'lee_valley_legacy_landscape_map.svg',
+    portrait: 'lee_valley_legacy_portrait_map.svg'
+  };
+  let current = 'landscape';
+
+  toggle.addEventListener('click', () => {
+    current = current === 'landscape' ? 'portrait' : 'landscape';
+    map.src = sources[current];
+    toggle.textContent = current === 'landscape' ? 'Switch to portrait' : 'Switch to landscape';
+  });
+</script>
+</body>
+</html>

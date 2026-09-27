@@ -1,0 +1,31 @@
+# 10 White Water Kayak Challenges
+
+Every trip to the [Lee Valley](https://www.better.org.uk/leisure-centre/lee-valley/white-water-centre) legacy loop is an adventure, but just turning up and doing laps without structure doesn't always give me that dopamine hit. To keep things fresh, I've been setting challenges on each visit. Maybe there are some ideas for you too.
+
+Unfamiliar experiences combined with elevated levels of peril can put me off adventurous activities, especially when technical skills are required. A climbing coach once told me that we learn best if we learn skills and techniques somewhere comfortable then take those skills to a more challenging environment. Taking that great advice, I've built up this list of challenges during my first 12 months at Lee Valley.
+
+I might be optimistic, and accidents happen, but generally, the worst outcome is a swim and boat recovery at the bottom.
+
+I've made a simplified map of the [Legacy Course][./lee_valley_legacy_map.html].
+
+1. **Flat rolls**, I always start with a couple of rolls on the lake. I try to do a few on-side (my normal side) and also off-side (the other side). In the colder months it also acclimatises me to the water. I'll also try out any other weird rolls that I mostly can't do just to force a second attempt on a roll I can do. Achieving a decent flat roll comes from a lot of pool practice.
+2. **Outflow roll**, rolling in the course outflow was my first attempt at deliberate rolling in "moving water", it helped me get over that initial fear. Start by approaching from the lake and capsize in the moving water, then as close to the last feature as you dare on the way down. This was great for me to start to feel the difference from being upside down in still, flat water. It taught me that sometimes its better to wait, even when inverted.
+3. **Eddy hits**. Take a break from rolling and try to hit every eddy in a single run. This is something I've not yet completed.  
+* You can hit an eddy directly or ferry into it but the next eddy must be downstream or at the same level
+* I think there are 28 eddies, and not all have blocks above them  
+* Take alternate routes to ensure that every eddy can be caught directly as well as ferry in.
+  Some eddies or ferry glides take more practice than others, I have my nemesis. Feature 5 for difficulty, number 3 _left_ for terror and _right_ for "how do I get over there?". Of course, some are harder when the Olympic course is on. When both courses are running, more water gets drawn from the lake, increasing the total drop for the legacy course. I'm guessing it adds at least 30cm - a noticeable 10% increase. With this challenge I'm forced to make a plan and stick to it as I descend.
+4. **Eddy rolls** take rolling up a gear, with this challenge I try to roll in some big "friendly" eddies. Drops 5, 6, 8 and 9 have large slow eddies that are perfect for this. Gaining confidence in rolling on the course is critical for tackling the next challenges.
+5. **Side drops**, take each feature sideways. Approach the feature and rotate so that you are perpendicular to the flow. I'd recommend aiming to land on your 'good side' to begin with. For me as a right handed paddler, that's facing river-left so I'm bracing as I land on my right. A tip I got from bank staff (and I'm not a coach): keep your elbows well below your shoulders to avoid injury. Start on the lower features, It's easier when the Olympic course is off. Drop 3 is the only feature that may require effort to exit. Now do it all again facing the other side, river right so you have an off-side brace.
+6. **Backwards drops**, easier than sideways but more traumatic is to take every feature backwards. Just make sure you look before you go. This helped me stay slightly calmer when I ended up finishing the [Tryweryn](https://www.nationalwhitewatercentre.co.uk/paddler-info) Ski Slope backwards.
+7. **Seal launches**, practising getting in when there's no easy bank is key for wilder spots, so I've tried a few here
+   1. Start with the plastic jetty near reception, just in case you've never tried
+   2. The steps near reception offer a small step up from the jetty, a slightly more exciting entry
+   3. For a bigger vertical drop, try the wall near reception. Just make sure there's enough water; I've hit the bottom here before.
+   4. Another larger but smooth drop is from the wall by steps below the travelator; it's always been deep enough for me.
+   5. Dropping into an eddy from the course bank (like the river-left eddy after drop 3) adds a psychological twist and an interesting landing
+8. **Feature roll**, deliberately roll in every feature. Either side drop in or come from the eddy and then roll in the trough as if you have caught an edge. You'll capsize upstream and pop straight up on the downstream side. Given that you will have chosen your good side, now do the other side
+9. **Side surf** on the big features. The last feature, when the Olympic course is on, is a nice start. Come in on surfers-right, commit and shoot across the feature, it'll just spit you out the other side. I'm not experienced enough to tell but I think each feature has a preferred direction which works.
+10. **Point to point sprint**. Start at the steps below the conveyor, start your stopwatch and go all the way around as fast as possible and stop when you get back to the steps. This sounds easy but it is knackering and you have to actually pick a line. Just smashing your way down will not give you a particularly fast time as you'll end up realising too late that you are being swept into a block, or spun around. It's a race against your former self, not anyone else, unless that's what you want. Remember to watch out for others on the water.
+
+Looking back over my first year at Lee Valley, these challenges have given my sessions a sense of purpose, structure, and fun. They've pushed me just far enough out of my comfort zone to grow, adding layers of confidence along the way. It was only when I sat down to write this that I realised how far I've come since those first Introduction to White Water sessions. I've already got a few ideas bubbling for future challenges, but this feels like a good place to pause for now.
