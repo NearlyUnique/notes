@@ -40,7 +40,7 @@
 </style>
 </head>
 <body>
-<button id="toggle">Switch to portrait</button>
+<button id="toggle">Mode: Auto</button>
 <ul><li><a href="./10-challenges">10 Challenges</a></li></ul>
 <img id="map" src="lee-valley-legacy-landscape-map.svg" alt="Lee Valley Legacy map">
 
@@ -51,13 +51,27 @@
     landscape: 'lee-valley-legacy-landscape-map.svg',
     portrait: 'lee-valley-legacy-portrait-map.svg'
   };
-  let current = 'landscape';
+  const modes = ['auto', 'portrait', 'landscape'];
+  const portraitQuery = window.matchMedia('(orientation: portrait)');
+  let mode = 'auto';
+
+  function pickOrientation() {
+    return portraitQuery.matches ? 'portrait' : 'landscape';
+  }
+
+  function render() {
+    map.src = sources[mode === 'auto' ? pickOrientation() : mode];
+    toggle.textContent = 'Mode: ' + mode.charAt(0).toUpperCase() + mode.slice(1);
+  }
 
   toggle.addEventListener('click', () => {
-    current = current === 'landscape' ? 'portrait' : 'landscape';
-    map.src = sources[current];
-    toggle.textContent = current === 'landscape' ? 'Switch to portrait' : 'Switch to landscape';
+    mode = modes[(modes.indexOf(mode) + 1) % modes.length];
+    render();
   });
+
+  portraitQuery.addEventListener('change', render);
+
+  render();
 </script>
 </body>
 </html>
